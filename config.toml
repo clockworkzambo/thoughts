@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-author = "Steve Francia"
+author = "Zambo"
 baseURL = "https://zambo.netlify.com/"
 copyright = "Copyright © Whenever; all rights reserved."
 enableInlineShortcodes = true
@@ -11,7 +11,7 @@ title = "Zambo Thoughts"
 [[menu.main]]
 identifier = "author"
 name = "Author Homepage"
-url = "https://jonathanjanssens.com"
+url = "https://zambo.netlify.com"
 weight = 2
 [[menu.main]]
 identifier = "about"
@@ -21,7 +21,7 @@ weight = 1
 [params]
 description = "Where I ponder on how the world works."
 facebook = "https://facebook.com"
-github = "https://github.com/jonathanjanssens"
+github = ""
 mainSections = ["post"]
 twitter = "https://twitter.com"
 [privacy.instagram]
