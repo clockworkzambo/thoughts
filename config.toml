@@ -19,7 +19,7 @@ name = "About"
 url = "/about/"
 weight = 1
 [params]
-description = "Where I ponder on how the world works."
+description = "You never asked for this, but here they are."
 facebook = "https://facebook.com"
 github = ""
 mainSections = ["post"]
